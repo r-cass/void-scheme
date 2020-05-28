@@ -1,0 +1,21 @@
+{
+    "name": "Void",
+    "green": "#16141b",
+    "blue": "#7f7ab6",
+    "white": "#d0d0ff",
+    "black": "#50435C",
+    "red": "#793e52",
+    "yellow": "#ad8f5d",
+    "purple": "#8b4f78",
+    "cyan": "#79ada9",
+    "brightBlack": "#505050",
+    "brightRed": "#be6482",
+    "brightGreen": "#a6fa62",
+    "brightYellow": "#ad8f5d",
+    "brightBlue": "#8d87cc",
+    "brightPurple": "#9f4e85",
+    "brightCyan": "#90cac5",
+    "brightWhite": "#f5f5f5",
+    "background": "#0b0b0f",
+    "foreground": "#d0d2df"
+}
